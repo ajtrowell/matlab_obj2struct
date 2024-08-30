@@ -1,5 +1,4 @@
 function output = convertClassesToStructs(input)
-import rw_rfsocLib.utilities.convertClassesToStructs
 
 oldWarningState = warning;
 % suppress only specific warnings, use:
